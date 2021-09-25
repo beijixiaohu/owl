@@ -2,11 +2,11 @@
 
 >   **警告：**
 >
->   *这是猫小鹰二创组的网站，可能存在商业内容，请不要随意复制以防侵权！*
+>   *这里是猫小鹰二创组的网站源码，为避免可能带来的侵权问题，其中的美术或者音频作品请勿随意复制传播！*
 >
 >   **warning：**
 >
->   *This is the website of the owl secondary creation group. there may be commercial content. Please take care not to copy it freely to prevent copyright infringement!*
+>   *This is the website source code of the owl secondary creation group. To avoid possible copyright infringement, please don't copy or distribute any of the artwork or audio!*
 
 **欢迎投喂(๑•ω•๑)**
 
@@ -14,7 +14,7 @@
 
 **投喂时请备注你的昵称，将列入感谢名单~**
 
-[![img](/imgs/pay1-3.png)](https://beijixiaohu.oss-cn-beijing.aliyuncs.com/picture/pay1-3.png)
+[<img src="/imgs/pay1-3.png" alt="img" style="zoom: 25%;" />](https://beijixiaohu.oss-cn-beijing.aliyuncs.com/picture/pay1-3.png)
 
 | 感谢投喂                                          |
 | ------------------------------------------------- |
@@ -53,7 +53,7 @@
 **关于本站：**
 
 ```
-2020-6-23开始编写，2020-8-10发布
+2020-6-23开始编写，2020-8-10发布，2021-9-25开始同步源码至Github
 ```
 
 |      | VuePress                                                     | 语音识别                                                     |
