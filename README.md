@@ -14,7 +14,7 @@
 
 **投喂时请备注你的昵称，将列入感谢名单~**
 
-[![img](./imgs/pay1-3.png)](https://beijixiaohu.oss-cn-beijing.aliyuncs.com/picture/pay1-3.png)
+[![img](/imgs/pay1-3.png)](https://beijixiaohu.oss-cn-beijing.aliyuncs.com/picture/pay1-3.png)
 
 | 感谢投喂                                          |
 | ------------------------------------------------- |
