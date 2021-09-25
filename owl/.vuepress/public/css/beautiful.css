@@ -1,0 +1,39 @@
+/* 自定义字体 */
+@font-face {
+    font-family: 'sleek';
+    src: url('https://cdn.jsdelivr.net/gh/lete114/CDN2/zaxiang/sleek.woff2');
+}
+/*页脚a标签字体颜色*/
+#footer-wrap a {
+    color: #b9b9b9;
+}
+/*页脚自定义字段字体颜色*/
+.footer_custom_text {
+    color: #b9b9b9;
+}
+/* 滚动条 */
+
+::-webkit-scrollbar {
+    width: 6px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #ffc0cb;
+    background-image: -webkit-linear-gradient( 45deg, rgba(255, 192, 203, 1) 25%, transparent 25%, transparent 50%, rgba(255, 192, 203, 1) 50%, rgba(255, 192, 203, 1) 75%, transparent 75%, transparent);
+    border-radius: 2em;
+}
+
+::-webkit-scrollbar-corner {
+    background-color: transparent;
+}
+
+::-moz-selection {
+    color: #fff;
+    background-color: #e58a8a;
+}
+/* 页脚透明 */
+
+#footer {
+    background: transparent !important;
+}

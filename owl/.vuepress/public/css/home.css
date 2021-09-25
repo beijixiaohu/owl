@@ -1,0 +1,83 @@
+@media screen and (min-width: 1040px) {
+
+    div#pcheader {
+        background: url(/home/bt1.png) no-repeat;
+        height: 250px;
+        background-position: center center;
+        margin-top: 50px;
+    }
+    
+    div#pcbox1 {
+        display: table;
+        width: 100%;
+        border-spacing: 50px;
+    }
+    
+    div#line {
+        display: table-row;
+    }
+    
+    div#box1,div#box2,div#box3{
+        display: table-cell;
+        height: 300px;
+    }
+    
+    div#box1 {
+        background: url(/home/xyydg1.png) no-repeat;
+    }
+    
+    div#box2 {
+        background: url(/home/mhec1.png) no-repeat;
+    }
+    
+    div#box3 {
+        background: url(/home/zbjl1.png) no-repeat;
+    }
+    
+    .button {
+        background-color: #ffffff00;
+        border: none;
+        color: #ffffff00;
+        padding: 11px 49px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 229px 0px 2px 40px;
+        cursor: pointer;
+        border-radius:35px;
+        -moz-user-select:none; /*禁止选中文字*/
+        -webkit-user-select:none;
+        -ms-user-select:none;
+        -khtml-user-select:none;
+        user-select:none;
+    }
+
+    div#phbox1,div#phheader {
+        width: 0px;height: 0px;overflow: hidden;
+    }
+}
+
+
+@media screen and (max-width: 1040px) {
+    div#pcbox1,div#pcheader {
+        width: 0px;height: 0px;overflow: hidden;
+    }
+
+    div#phheader {
+        margin-top: 45px;
+        pointer-events: none;
+    }
+
+    div#box1,div#box2,div#box3 {
+        margin-top: 20px;
+    }
+
+    div#phheader,div#phbox1 {
+        -webkit-user-select:none; /*禁用选中 */
+        -moz-user-select:none;
+        -ms-user-select:none;
+        -khtml-user-select:none;
+        user-select:none;
+    }
+}
