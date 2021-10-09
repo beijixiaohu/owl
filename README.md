@@ -1,65 +1,61 @@
 
 
->   **警告：**
->
->   *这里是猫小鹰二创组的网站源码，为避免可能带来的版权问题，其中的美术或者音频作品请勿随意复制传播！*
->
 >   **warning：**
 >
 >   *This is the website source code of the owl secondary creation group. To avoid possible copyright infringement, please don't copy or distribute any of the artwork or audio!*
 
-**该网站为非官方项目，欢迎投喂(๑•ω•๑)**
+**This website is an unofficial project, Thank you for your sponsorship(๑•ω•๑)**
 
-**您的赞助将全额用于网站现在及未来的建设支出**
+**Your sponsorship will be used in full for the construction expenses of the website now and in the future**
 
-**投喂时请备注你的昵称，将列入感谢名单~**
+**Please note your name when feeding, it will be included in the thank list~**
 
 [<img src="/imgs/pay1-3.png" alt="img" style="zoom: 25%;" />](https://beijixiaohu.oss-cn-beijing.aliyuncs.com/picture/pay1-3.png)
 
-| 感谢投喂                                          |
+| Thanks for feeding!                                          |
 | ------------------------------------------------- |
-| 感谢 `萌之翼` 投喂 - - - - - ¥508.00              |
-| 感谢 `雪域风天下` 投喂 - - - - - ¥200.00          |
-| 感谢 `小鹰鹰的铁锅owl` 投喂 - - - - - ¥180.50     |
-| 感谢 `绅士小苹果` 投喂 - - - - - 100.00           |
-| 感谢 `小木杯Owl` 投喂 - - - - - ¥54.00            |
-| 感谢 `阿辄` 投喂 - - - - - ¥50.00                 |
-| 感谢 `林菲` 投喂 - - - - - ¥50.00                 |
-| 感谢 `鹰料蜡像馆机南Owl` 投喂 - - - - - ¥23.00    |
-| 感谢 `备注：小小的支持一下` 投喂 - - - - - ¥20.00 |
-| 感谢 `魏宏振` 投喂 - - - - - 10.00                |
-| 感谢 `爱吃肥肠的醋醋` 投喂 - - - - - ¥10.00       |
-| 感谢 `墨辰MC` 投喂 - - - - - ¥9.99                |
-| 感谢 `无底sama` 投喂 - - - - - ¥9.99              |
-| 感谢 `嗷夜的小why` 投喂 - - - - - ¥9.98           |
-| 感谢 `7nanase7` 投喂 - - - - - ¥9.00              |
-| 感谢 `一位没有留名的hxd` 投喂 - - - - - ¥9.00     |
-| 感谢 `恋岚依依` 投喂 - - - - - ¥5.00              |
-| 感谢 `一位没有留名的hxd` 投喂 - - - - - ¥3.00     |
-| 感谢 `小桃` 投喂 - - - - - ¥3.00                  |
-| 感谢 `酥不二` 投喂 - - - - - 2.00                 |
+| Thanks for sponsoring by `萌之翼`  - - - - - ¥508.00              |
+| Thanks for sponsoring by `雪域风天下`  - - - - - ¥200.00          |
+| Thanks for sponsoring by `小鹰鹰的铁锅owl`  - - - - - ¥180.50     |
+| Thanks for sponsoring by `绅士小苹果`  - - - - - 100.00           |
+| Thanks for sponsoring by `小木杯Owl`  - - - - - ¥54.00            |
+| Thanks for sponsoring by `阿辄`  - - - - - ¥50.00                 |
+| Thanks for sponsoring by `林菲`  - - - - - ¥50.00                 |
+| Thanks for sponsoring by `鹰料蜡像馆机南Owl`  - - - - - ¥23.00    |
+| Thanks for sponsoring by `备注：小小的支持一下`  - - - - - ¥20.00 |
+| Thanks for sponsoring by `魏宏振`  - - - - - 10.00                |
+| Thanks for sponsoring by `爱吃肥肠的醋醋`  - - - - - ¥10.00       |
+| Thanks for sponsoring by `墨辰MC`  - - - - - ¥9.99                |
+| Thanks for sponsoring by `无底sama`  - - - - - ¥9.99              |
+| Thanks for sponsoring by `嗷夜的小why`  - - - - - ¥9.98           |
+| Thanks for sponsoring by `7nanase7`  - - - - - ¥9.00              |
+| Thanks for sponsoring by `一位没有留名的hxd`  - - - - - ¥9.00     |
+| Thanks for sponsoring by `恋岚依依`  - - - - - ¥5.00              |
+| Thanks for sponsoring by `一位没有留名的hxd`  - - - - - ¥3.00     |
+| Thanks for sponsoring by `小桃`  - - - - - ¥3.00                  |
+| Thanks for sponsoring by `酥不二`  - - - - - 2.00                 |
 
-| 感谢支援                                                     |
+| Thanks for the support                                       |
 | ------------------------------------------------------------ |
-| 技术指导：`雨无尘i`                                          |
-| 美术设计：`北极小狐` `木野顺` `杰作`                         |
-| 美术指导：`阿辄` `雪域风天下` `林菲` `伊墨风羽`              |
-| 文案撰写：`7nanase7` `雨无尘i` `阿辄` `北极小狐`             |
-| 音频剪辑处理：`7nanase7` `北极小狐`                          |
-| 美绘作品贡献：`木野顺` `纸袋` `那就问问魔法海螺` `金时酱` `节操Owl` `橙子橙` `阿贞` `萌之翼` `阿辄` 等等 |
+| Technical guidance：`雨无尘i`                                |
+| Artistic Design：`北极小狐` `木野顺` `杰作`                  |
+| Art Director：`阿辄` `雪域风天下` `林菲` `伊墨风羽`          |
+| writer：`7nanase7` `雨无尘i` `阿辄` `北极小狐`               |
+| Audio Editor：`7nanase7` `北极小狐`                          |
+| Painting Author：`木野顺` `纸袋` `那就问问魔法海螺` `金时酱` `节操Owl` `橙子橙` `阿贞` `萌之翼` `阿辄` … |
 
-感谢所有曾支援过这个项目的大家(⁎˃ᴗ˂⁎) 这是属于我们共同的作品~
+Thank you to everyone who has supported this project (⁎˃ᴗ˂⁎) This is our joint project~
 
-**关于本站：**
+**About：**
 
 ```
-2020-6-23开始编写，2020-8-10发布，2021-9-25开始同步源码至Github
+Start writing on 2020-6-23, release on 2020-8-10, synchronize source code to Github on 2021-9-25
 ```
 
-|      | VuePress                                                     | 语音识别                                                     |
+|      | VuePress                                                     | Voice Recognition                                                     |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|      |                                                              | 用于自动生成录播视频的srt以及直播记录编写参考                |
-| 参数 | `框架` VuePress <br>`主题`  hope<br>`存储` 阿里云OSS <br>`CDN` 阿里云 | `语音识别引擎` 阿里云语音识别ASR<br>`识别模型` 中文普通话 （识音石 V1 - 端到端模型) <br>`参考相关开源项目` VideoSrt |
+|      |                                                              | For the automatic generation of recorded video srt and live recording writing reference                |
+| Parameter | `Frame` VuePress <br>`Theme`  hope<br>`OSS` Aliyun OSS <br>`CDN` Aliyun | `Voice recognition engine` Aliyun Speech Recognition ASR<br>`Recognition Model` 中文普通话 （识音石 V1 - 端到端模型) <br>`Related open source projects` VideoSrt |
 
 
 
