@@ -48,3 +48,9 @@ copyrightText: false
       </a>
     </div>
 </div>
+
+<div class=about>
+  <div id=aboutbox>
+    <a href="/about/" class="button1">关于本站</a>
+  </div>
+</div>
