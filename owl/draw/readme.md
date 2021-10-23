@@ -15,15 +15,16 @@ sidebar: false
 >   [QQ投递](http://wpa.qq.com/msgrd?v=3&uin=1530769035&site=qq&menu=yes)
 
 >  **下载：**<br> <div class="note grey icon modern"><i class="note-icon fas fa-arrow-alt-circle-down"></i>
->   <a href="https://pan.baidu.com/s/1E8F-4UIbB5CDEWFcvE9thQ" target="_blank"><button class="bttn-pill bttn-sm bttn-success"><i class="note-icon fas fa-cloud-download-alt"></i>  百度云（提取码：2333）</button></a><a href="https://1drv.ms/u/s!AklAoj71_dJ0hiM9TPYqGyfBRJ-c?e=2BcYlW" target="_blank" ><button class="bttn-pill bttn-sm bttn-success"><i class="note-icon fas fa-cloud-download-alt"></i>  OneDrive</button></a>
+>   <a href="https://pan.baidu.com/s/1E8F-4UIbB5CDEWFcvE9thQ" target="_blank"><button class="bttn-pill bttn-sm bttn-success"><i class="note-icon fas fa-cloud-download-alt"></i>  百度云（提取码：2333）</button></a>
+<a href="https://1drv.ms/u/s!AklAoj71_dJ0hiM9TPYqGyfBRJ-c?e=2BcYlW" target="_blank" ><button class="bttn-pill bttn-sm bttn-success"><i class="note-icon fas fa-cloud-download-alt"></i>  OneDrive</button></a>
 >   </div>
 
 
 ### 橙子橙
 
-<img src="/paint/%E6%A9%99%E5%AD%90%E6%A9%99/1.webp" style="zoom:15%;" />
+<img src="/paint/%E6%A9%99%E5%AD%90%E6%A9%99/1.webp" style="zoom:13%;" />
 <img src="/paint/%E6%A9%99%E5%AD%90%E6%A9%99/2.webp" style="zoom:25%;" />
-<img src="/paint/%E6%A9%99%E5%AD%90%E6%A9%99/3.webp" style="zoom:15%;" />
+<img src="/paint/%E6%A9%99%E5%AD%90%E6%A9%99/3.webp" style="zoom:13%;" />
 
 
 ### 那就问问魔法海螺

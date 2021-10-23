@@ -1,12 +1,8 @@
 // import icon
 @import '//at.alicdn.com/t/font_2410206_kxwb6og9m5.css'
-
-h1#main-title{
-    font-family:fangsong;
-}
-
-p.description{
-    font-family:fangsong;
+/*修改文字字体*/
+code,span,body{
+    font-family:Simsun ;
 }
 
 /*隐藏导航栏标题文字*/
@@ -64,9 +60,14 @@ h3 {
 
 /*导航栏样式*/
 .navbar{
-    backdrop-filter: saturate(10%) blur(2px) !important;
+    backdrop-filter: saturate(10%) blur(0px) !important;
     background: #fff0 !important;
-    box-shadow: 0 2px 8px #0000001a !important;
+    box-shadow: 0 0px 0px #0000001a !important;
+}
+
+/*顶栏logo*/
+.navbar .logo {
+    margin: 10px 0px 0px 10px;/*外边距（上 右 下 左）*/
 }
 
 
@@ -85,9 +86,51 @@ h3 {
 /*底栏样式*/
 .footer-wrapper{
     background:#fff0 !important;
+    justify-content: center !important;
 }
+
+
+/*侧边栏修正*/
+.has-anchor .page:not(.blog){
+    padding-right: 0rem !important;
+}
+#anchor .anchor-wrapper{
+    margin: 0px 20px 0px 0px;
+}
+
 
 /*滑动条颜色*/
 body {
     --accent-color:#dad2d3fc;
 }
+
+/*提示块*/
+p {
+    color: #6a6969ad;
+}
+
+.custom-block.tip {
+    border-color: #f8f8f8 !important;
+}
+
+/*按钮颜色*/
+.bttn-pill.bttn-success {
+    background: #0f03004a;
+}
+
+
+/*播放器颜色修改*/
+span.aplayer-list-title {
+    color: #333333;
+    font: bold;
+}
+
+/*代码块复制按钮隐藏*/
+button.copy-code-button{
+    width: 0px;height: 0px;overflow: hidden;
+}
+div[class*='language-'] .copy-code-button{
+    padding: 0px 8px;
+}
+
+/*代码块颜色修改*/
