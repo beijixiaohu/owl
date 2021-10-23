@@ -9,15 +9,19 @@ sidebar: false
 本页所有作品仅可用于猫小鹰相关二创，未经作者授权禁止商用，转载请注明出处
 :::
 
->   **欢迎投稿美绘二创/表情包**
->   φ(>ω<*) <br>
->   [邮箱投递](mailto:1530769035@qq.com)
->   [QQ投递](http://wpa.qq.com/msgrd?v=3&uin=1530769035&site=qq&menu=yes)
+::: tip 欢迎投稿美绘二创/表情包
+φ(>ω<*) <br>
+[邮箱投递](mailto:1530769035@qq.com)
+[QQ投递](http://wpa.qq.com/msgrd?v=3&uin=1530769035&site=qq&menu=yes)
+:::
 
->  **下载：**<br> <div class="note grey icon modern"><i class="note-icon fas fa-arrow-alt-circle-down"></i>
->   <a href="https://pan.baidu.com/s/1E8F-4UIbB5CDEWFcvE9thQ" target="_blank"><button class="bttn-pill bttn-sm bttn-success"><i class="note-icon fas fa-cloud-download-alt"></i>  百度云（提取码：2333）</button></a>
+::: tip 下载
+<br>
+<div class="note grey icon modern"><i class="note-icon fas fa-arrow-alt-circle-down"></i>
+<a href="https://pan.baidu.com/s/1E8F-4UIbB5CDEWFcvE9thQ" target="_blank"><button class="bttn-pill bttn-sm bttn-success"><i class="note-icon fas fa-cloud-download-alt"></i>  百度云（提取码：2333）</button></a>
 <a href="https://1drv.ms/u/s!AklAoj71_dJ0hiM9TPYqGyfBRJ-c?e=2BcYlW" target="_blank" ><button class="bttn-pill bttn-sm bttn-success"><i class="note-icon fas fa-cloud-download-alt"></i>  OneDrive</button></a>
->   </div>
+</div>
+:::
 
 
 ### 橙子橙
@@ -76,7 +80,7 @@ sidebar: false
 
 ### 其他二创
 
->   这里是一些比较零散的作品
+这里是一些比较零散的作品
 
 <img src="/paint/%E5%85%B6%E4%BB%96/2.PNG" style="zoom:15%;" />
 <img src="/paint/%E5%85%B6%E4%BB%96/6c00a789581987cb972c93f5d35a892e77a6fac1.png" style="zoom:15%;" />
@@ -90,7 +94,7 @@ sidebar: false
 
 <img src="/paint/%E8%A1%A8%E6%83%85%E5%8C%85/%E7%8C%AB%E5%B0%8F%E9%B9%B0%E8%87%B3%E5%B0%8A%E6%86%A8%E6%89%B9%E7%89%88.jpg" style="zoom:17%;" />
 <img src="/paint/%E8%A1%A8%E6%83%85%E5%8C%85/%E5%B0%8F%E9%B9%B0%E9%B9%B0%E6%83%B3%E6%8A%8A%E9%9B%A8%E5%AE%9D%E4%B8%A2%E5%87%BA%E8%BF%99%E4%B8%AA%E7%BE%A4.jpg" style="zoom:15%;" />
-<img src="/paint/%E8%A1%A8%E6%83%85%E5%8C%85/S1YWL(P14A%60)JEJO3%25%5B%25Z%5BU.jpg" style="zoom:25%;" />
+<img src="/paint/%E8%A1%A8%E6%83%85%E5%8C%85/1111.jpg" style="zoom:25%;" />
 <img src="/paint/%E8%A1%A8%E6%83%85%E5%8C%85/QQ%E5%9B%BE%E7%89%8720210425114655.jpg" style="zoom:25%;" />
 <img src="/paint/%E8%A1%A8%E6%83%85%E5%8C%85/6085933fa2394.jpg" style="zoom:20%;" />
 <img src="/paint/%E8%A1%A8%E6%83%85%E5%8C%85/772644aa96c5e10b4201d28adb0495d7bb8d0d79.png%40518w.png" style="zoom:20%;" />
@@ -135,7 +139,8 @@ sidebar: false
 
 
 ### 铁锅 素材
-> 画师：木野顺
+
+画师：木野顺
 
 <img src="/paint/%E9%93%81%E9%94%85%E5%85%83%E7%B4%A0/%E4%BF%A1%E5%B0%81.png" style="zoom: 25%;" />
 <img src="/paint/%E9%93%81%E9%94%85%E5%85%83%E7%B4%A0/%E5%B8%BD%E5%AD%90.png" style="zoom: 25%;" />

@@ -6,7 +6,7 @@ title: 关于本站
 <center><font size="5" color="pink">欢迎投喂(๑•ω•๑)</font></center> <br>
 <center><font size="5" color="pink">您的赞助将全额用于网站现在及未来的建设支出</font></center> <br>
 <center><font size="4" color="pink">投喂时请备注你的昵称，将列入感谢名单~</font></center> 
-<img src="https://beijixiaohu.oss-cn-beijing.aliyuncs.com/picture/pay1-3.png" width="100%">
+<img src="https://mxyowl.oss-cn-beijing.aliyuncs.com/picture/pay1-3.png" width="100%">
 
 | 感谢投喂  |
 | -------- |

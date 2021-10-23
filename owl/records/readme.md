@@ -1,7 +1,7 @@
 ---
 title: 猫小鹰直播记录
 ---
-<link type="text/css" rel="stylesheet" href="/css/page.css">
+<link type='text/css' rel='stylesheet' href='/css/page.css'>
 
 <!--方框-->
 
@@ -24,9 +24,9 @@ title: 猫小鹰直播记录
 
 ### 【2021-5-31】 连麦回！超搞笑
 
-<div class="wbk">
+<div class='wbk'>
     <p> </p>
-    <p><font size="4" face="arial" color="pink" >1 P</font></p>
+    <p><font size='4' face='arial' color='pink' >1 P</font></p>
 </div>
 
 00:09:51,768 --> 00:14:08,280 **去杜松子直播间问如何连麦** ★★★
@@ -85,9 +85,9 @@ title: 猫小鹰直播记录
 
 00:24:08,030 --> 00:29:08,410 **讲游戏规则**
 
-<img src="https://beijixiaohu.oss-cn-beijing.aliyuncs.com/picture/2021-06-01%20%20%2008%EF%BC%9A57.png" style="zoom: 50%;" /><br>
+<img src='https://mxyowl.oss-cn-beijing.aliyuncs.com/picture/2021-06-01%20%20%2008%EF%BC%9A57.png' style='zoom: 50%;' /><br>
 
-<img src="https://beijixiaohu.oss-cn-beijing.aliyuncs.com/picture/2021-06-01%20%20%2008%EF%BC%9A59.png" style="zoom: 75%;" />
+<img src='https://mxyowl.oss-cn-beijing.aliyuncs.com/picture/2021-06-01%20%20%2008%EF%BC%9A59.png' style='zoom: 75%;' />
 
 00:32:06,324 --> 00:34:21,280 **连麦 面馅包子就花卷**（翻车）
 
@@ -141,7 +141,7 @@ title: 猫小鹰直播记录
         那只能这样了
         这总可以了吧
 
-<img src="https://beijixiaohu.oss-cn-beijing.aliyuncs.com/picture/2021-06-01%20%20%2009%EF%BC%9A36.png" style="zoom: 25%;" />
+<img src='https://mxyowl.oss-cn-beijing.aliyuncs.com/picture/2021-06-01%20%20%2009%EF%BC%9A36.png' style='zoom: 25%;' />
 
     01:13:48,508 --> 01:17:21,510
     向花卷提问：
@@ -156,12 +156,12 @@ title: 猫小鹰直播记录
     这首歌曲非常主旋律
     （突然黑屏
 
-<img src="https://beijixiaohu.oss-cn-beijing.aliyuncs.com/picture/FH%7DRO%5B%404IAKCLOEGBVIA2YE.jpg" style="zoom: 50%;" />
+<img src='https://mxyowl.oss-cn-beijing.aliyuncs.com/picture/FH%7DRO%5B%404IAKCLOEGBVIA2YE.jpg' style='zoom: 50%;' />
 
 
-<div class="wbk">
+<div class='wbk'>
     <p> </p>
-    <p><font size="4" face="arial" color="pink" >2 P 再次开播</font></p>
+    <p><font size='4' face='arial' color='pink' >2 P 再次开播</font></p>
 </div>
 
 00:26:00,768 --> 00:26:08,070 **清唱红尘客栈** （突然傻笑的鹰？？？）
@@ -184,7 +184,7 @@ title: 猫小鹰直播记录
     那就整一张吧
     就整一张吧
 
-<img src="https://www.maoxiaoying.cool/picture/2021-05-16%20%20%2008%EF%BC%9A30.png" style="zoom: 25%;" />
+<img src='https://www.maoxiaoying.cool/picture/2021-05-16%20%20%2008%EF%BC%9A30.png' style='zoom: 25%;' />
 
     好 下面就是鹰鹰和松松的联动环节
     好 我们把松松放在这儿
@@ -409,7 +409,7 @@ title: 猫小鹰直播记录
     不是有个伸舌头表情吗
     说的对哦
 
-<img src="https://www.maoxiaoying.cool/picture/2021-05-16%20%20%2010%EF%BC%9A29.png" style="zoom: 25%;" />
+<img src='https://www.maoxiaoying.cool/picture/2021-05-16%20%20%2010%EF%BC%9A29.png' style='zoom: 25%;' />
 
     诶
     这么搞这个好哎 嘿嘿
@@ -495,7 +495,7 @@ title: 猫小鹰直播记录
 
 - 00:44:43,970 → 00:45:09,310
 
-<img src="https://www.maoxiaoying.cool/picture/2021-05-03%20%20%2015%EF%BC%9A35.png" style="zoom: 75%;" />
+<img src='https://www.maoxiaoying.cool/picture/2021-05-03%20%20%2015%EF%BC%9A35.png' style='zoom: 75%;' />
 
     刨（bao）冰不是刨（pao）冰[丈育主播]
     刨（pao）冰不是
@@ -535,12 +535,12 @@ title: 猫小鹰直播记录
 - 10:00 翼宝给三个新妹妹上舰长，给鹰鹰送凉了，鹰鹰yygq翼宝：<font color=#19CAAD>老板真是太大气了！</font>
 - 17:25 看新妹妹竹月芽：
     - 铁锅弹幕：
-    <img src="https://beijixiaohu.oss-cn-beijing.aliyuncs.com/picture/2021-04-16%20%20%2020%EF%BC%9A59.png" style="zoom: 75%;" />
+    <img src='https://mxyowl.oss-cn-beijing.aliyuncs.com/picture/2021-04-16%20%20%2020%EF%BC%9A59.png' style='zoom: 75%;' />
     - 鹰：<font color=#19CAAD>你是怎么知道新妹妹的性格的？？？</font>
     - 弹幕：<font color=#BEE7E9>铁锅和新妹妹聊一晚上了</font>
 - 21:24 见到新妹妹之后就觉得她是个憨憨；读竹月芽的设定台词：
 - 28:31 鹰：<font color=#19CAAD>这个皮以前更涩的，现在是和谐版本，以前裙子那一块都是透明的；画师妈妈太省布料了，不能让新妹妹冻到</font>
-<img src="https://beijixiaohu.oss-cn-beijing.aliyuncs.com/picture/2021-04-16%20%20%2021%EF%BC%9A10.png" style="zoom: 75%;" />
+<img src='https://mxyowl.oss-cn-beijing.aliyuncs.com/picture/2021-04-16%20%20%2021%EF%BC%9A10.png' style='zoom: 75%;' />
 - 35:00（大概时间）看新妹妹尤狸 
     - 弹幕：<font color=#BEE7E9>人家粉丝数比你多</font> 
     - 鹰：<font color=#19CAAD>人家粉丝比我多我知！道！了！！！不要再跟我强！调！了！</font>
@@ -559,12 +559,12 @@ title: 猫小鹰直播记录
 :::
 - 2:22:47 弹幕：<font color=#BEE7E9>鹰鹰的特色是什么？</font>鹰： <font color=#19CAAD>鹰鹰的特色是平胸</font>
 - 2:25:00 鹰：<font color=#19CAAD>直播间不会有小学生吧？</font>；``yu17``背刺``阿辄``
-<img src="https://beijixiaohu.oss-cn-beijing.aliyuncs.com/picture/2021-04-14%20%20%2023%EF%BC%9A35.png" style="zoom: 50%;" />
+<img src='https://mxyowl.oss-cn-beijing.aliyuncs.com/picture/2021-04-14%20%20%2023%EF%BC%9A35.png' style='zoom: 50%;' />
 - 2:26:00 鹰鹰对 一些VUP整天嚷嚷自己有胸 持不同见解（她自己以前不也这样
 - 2:28:00 鹰：<font color=#19CAAD>纯姐和NiKi越来越大，会不会很重</font>（？）
 - 2:40:00 PK大乱斗 1:0然后被偷塔，以1:2惨败（hhh
-<img src="https://beijixiaohu.oss-cn-beijing.aliyuncs.com/picture/2021-04-14%20%20%2023%EF%BC%9A52.png" style="zoom: 50%;" />
-<img src="https://beijixiaohu.oss-cn-beijing.aliyuncs.com/picture/2021-04-14%20%20%2023%EF%BC%9A513.png" style="zoom: 50%;" />
+<img src='https://mxyowl.oss-cn-beijing.aliyuncs.com/picture/2021-04-14%20%20%2023%EF%BC%9A52.png' style='zoom: 50%;' />
+<img src='https://mxyowl.oss-cn-beijing.aliyuncs.com/picture/2021-04-14%20%20%2023%EF%BC%9A513.png' style='zoom: 50%;' />
 
 ### 【2021-4-6】 血亏血亏
 
@@ -577,7 +577,7 @@ title: 猫小鹰直播记录
 - 3:00 六道是个大骗子 <font color=#008B8B>在六道直播间刷50SC六道居然不看</font>
 - 10:13 唱《红昭愿》
 - 21:30 D **麦乐桃**
-    <img src="https://beijixiaohu.oss-cn-beijing.aliyuncs.com/picture/2021-04-06%20%20%2023%EF%BC%9A00.png" style="zoom: 25%;" />
+    <img src='https://mxyowl.oss-cn-beijing.aliyuncs.com/picture/2021-04-06%20%20%2023%EF%BC%9A00.png' style='zoom: 25%;' />
 - 28:00 D **塔尔斯**
 - 30:00 “菠萝太好吃了！”；讲一次吃地瓜吃吐了（描述过于形象以至于有画面了（doge））
 - 45:30 录`阿辄`改词版《大喜》；原版《大喜》
@@ -646,7 +646,7 @@ title: 猫小鹰直播记录
 - 2:04:00 智能BGM “悲伤”下播：
 
 ::: details 点击查看“悲伤”下播音频</summary>
-    <audio id="audio" controls="" preload="none"><source id="mp3" src="https://beijixiaohu.oss-cn-beijing.aliyuncs.com/sound/2021-4-7%20073127.mp3"></audio>
+    <audio id='audio' controls='' preload='none'><source id='mp3' src='https://mxyowl.oss-cn-beijing.aliyuncs.com/sound/2021-4-7%20073127.mp3'></audio>
 :::
 
 ### 【2021-3-25】在直播时录音的话一定会翻车的吧！
