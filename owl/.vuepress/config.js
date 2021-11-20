@@ -32,7 +32,7 @@ module.exports = config({
 
     footer: {
       display: true,
-      content: "豫ICP备20021176号-1 | MIT Licensed ",
+      content: "豫ICP备20021176号-1 | MIT Licensed |",
     },
 
     copyright: {
