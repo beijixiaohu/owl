@@ -4,8 +4,13 @@ sidebar: false
 ---
 <link type='text/css' rel='stylesheet' href='/css/page.css'>
 
->   下载链接：<br><button class="bttn-pill bttn-sm bttn-success"><i class="note-icon fas fa-cloud-download-alt"></i>  百度云（提取码：2333）</button> 
->   </a><button class="bttn-pill bttn-sm bttn-success"><i class="note-icon fas fa-cloud-download-alt"></i>  OneDrive</button></a>
+::: tip 下载
+<br>
+<div class="note grey icon modern"><i class="note-icon fas fa-arrow-alt-circle-down"></i>
+<a href="https://pan.baidu.com/s/1gocEy7rKPZd2BkmfFZrlEA" target="_blank"><button class="bttn-pill bttn-sm bttn-success"><i class="note-icon fas fa-cloud-download-alt"></i>  百度云（提取码：2333）</button></a>
+<a href="https://1drv.ms/f/s!AklAoj71_dJ0hy9wpkUWwZh4sce8" target="_blank" ><button class="bttn-pill bttn-sm bttn-success"><i class="note-icon fas fa-cloud-download-alt"></i>  OneDrive</button></a>
+</div>
+:::
 
 >   如果页面不显示播放器，请刷新该页面
 >

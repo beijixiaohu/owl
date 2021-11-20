@@ -86,7 +86,7 @@
 
 
 @media screen and (max-width: 1040px) {
-    div#pcbox1,div#pcheader {
+    div#aboutbox,div#pcbox1,div#pcheader {
         width: 0px;height: 0px;overflow: hidden;
     }
 
