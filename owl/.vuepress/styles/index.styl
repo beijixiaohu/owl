@@ -1,10 +1,19 @@
 // import icon
-@import '//at.alicdn.com/t/font_2410206_kxwb6og9m5.css'
-/*修改文字字体*/
-code,span,body{
-    font-family:Simsun ;
+@font-face {
+    font-family: "SanJiYuanTiJian-Zhong-2";
+    src: url("/font/SanJiYuanTiJian-Zhong-2.eot"); /* IE9 */
+    src: url("/font/SanJiYuanTiJian-Zhong-2.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("/font/SanJiYuanTiJian-Zhong-2.woff") format("woff"), /* chrome、firefox */
+    url("/font/SanJiYuanTiJian-Zhong-2.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+    url("/font/SanJiYuanTiJian-Zhong-2.svg#SanJiYuanTiJian-Zhong-2") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
 }
 
+/*修改文字字体*/
+code,span,body{
+    font-family:SanJiYuanTiJian-Zhong-2 ;
+}
 /*隐藏导航栏标题文字*/
 span.site-name.can-hide{
     width: 0px;height: 0px;overflow: hidden;
