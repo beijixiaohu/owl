@@ -20,6 +20,7 @@ module.exports = config({
     author: "北极小狐",
     sidebarDepth: 3,
     search: false,
+    darkmode: 'disable',
     sidebar: {
     },
 
