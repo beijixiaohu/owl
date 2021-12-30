@@ -12,9 +12,6 @@ sidebar: false
 </div>
 :::
 
->   如果页面不显示播放器，请刷新该页面
->
-
 <div id="aplayer01"></div>
 <script type="text/javascript">
     const ap = new APlayer({

@@ -33,6 +33,7 @@ module.exports = config({
     footer: {
       display: true,
       content: "豫ICP备20021176号-1 | MIT Licensed |",
+      copyright: "Copyright © 2020-2022 猫小鹰二创组"
     },
 
     copyright: {

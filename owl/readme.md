@@ -6,7 +6,7 @@ heroImage: /Homelogo.webp
 heroText: 
 tagline: 单推人~✨
 
-footer: <a href="http://beian.miit.gov.cn/">豫ICP备20021176号-1</a> | MIT Licensed | Copyright © 2020-2021 猫小鹰二创组
+footer: <a href="http://beian.miit.gov.cn/">豫ICP备20021176号-1</a> | MIT Licensed | Copyright © 2020-2022 猫小鹰二创组
 copyrightText: false
 ---
 <link type="text/css" rel="stylesheet" href="/css/home.css">
