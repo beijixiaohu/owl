@@ -19,7 +19,7 @@ sidebar: false
         order: 'random',
         preload: 'none',
         volume: 0.7,
-        listMaxHeight:5,
+        listMaxHeight: 30,
         audio: [
             {
             name: '左边',

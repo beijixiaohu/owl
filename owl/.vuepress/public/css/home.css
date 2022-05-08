@@ -53,6 +53,10 @@
         -khtml-user-select:none;
         user-select:none;
     }
+    a.button:hover {
+        transform: scale(1.03);
+        box-shadow: 0px 8px 15px 1px rgb(0 0 0 / 8%);
+    }
 
     .button1 {
         background-color: #ffffff00;
@@ -71,6 +75,9 @@
         -ms-user-select:none;
         -khtml-user-select:none;
         user-select:none;
+    }
+    a.button1:hover {
+        box-shadow: -1px 0px 13px 6px rgb(244 67 54 / 9%);
     }
 
     div#phbox1,div#phheader {

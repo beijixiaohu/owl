@@ -3,9 +3,10 @@ title: 关于本站
 ---
 <link type="text/css" rel="stylesheet" href="/css/page.css">
 
-<center><font size="5" color="pink">欢迎投喂(๑•ω•๑)</font></center> <br>
-<center><font size="5" color="pink">您的赞助将全额用于网站现在及未来的建设支出</font></center> <br>
-<center><font size="4" color="pink">投喂时请备注你的昵称，将列入感谢名单~</font></center> 
+<center><font size="5" color="#607d8b">欢迎投喂(๑•ω•๑)</font></center> <br>
+<center><font size="5" color="#607d8b">您的赞助将全额用于网站现在及未来的建设支出</font></center> <br>
+<center><font size="4" color="#607d8b">投喂时请备注你的昵称，将列入感谢名单~</font></center> 
+
 <img src="./imgs/pay1-3.png" width="100%">
 
 | 感谢投喂  |
@@ -40,13 +41,13 @@ title: 关于本站
 |音频剪辑处理：``7nanase7`` ``北极小狐``
 |美绘作品贡献：``木野顺`` ``纸袋`` ``那就问问魔法海螺`` ``金时酱`` ``节操Owl`` ``橙子橙`` ``阿贞`` ``萌之翼`` ``阿辄`` 等
 
-<center><font size="5" color="pink">感谢所有曾支援过这个项目的大家(⁎˃ᴗ˂⁎) 这是属于我们共同的作品~</font></center> 
-
+<center><font size="5" color="#607d8b">感谢所有支援过这个项目的大家(⁎˃ᴗ˂⁎) 这是属于我们共同的作品~</font></center> 
 
 ## 关于本站
-    建站于2020-6-23，于2020-8-10公布
 
-| | Vuepress  | 语音识别 |
-| --- | ----- | ----- |
-|| |用于自动生成录播视频的srt以及直播记录编写参考|
-|参数|` 框架`  Vuepress<br><br>` 主题` hope  <br><br>` 存储`  阿里云OSS<br><br>` CDN`  阿里云|`语音识别引擎` 阿里云语音识别ASR<br><br>`识别模型` 中文普通话 （识音石 V1 - 端到端模型)<br><br>`参考相关开源项目` VideoSrt|
+    2020-8-10发布
+
+| Vuepress  | 音频文字识别~（用于自动srt）~ |
+| ----- | ----- |
+|` 框架`  Vuepress<br><br>` 主题` hope  <br><br>` 存储`  阿里云OSS<br><br>` CDN`  阿里云|`识别引擎` 阿里云语音识别ASR<br><br>`模型` 中文普通话 （识音石 V1 - 端到端模型)<br><br>`参考相关` VideoSrt|
+

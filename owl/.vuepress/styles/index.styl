@@ -19,6 +19,10 @@ span.site-name.can-hide{
     width: 0px;height: 0px;overflow: hidden;
 }
 
+.custom-block.tip::before{
+    content:url() !important;
+}
+
 /*隐藏标题下方的阅读时间*/
 .page-info{
     width: 0px;height: 0px;overflow: hidden;
@@ -119,12 +123,19 @@ p {
 }
 
 .custom-block.tip {
-    border-color: #f8f8f8 !important;
+    border-color: #f8f8f8a3 !important;
+    background: #f8f8f8a3 !important;
+    padding: 2px 0px 15px 18px;
+    border-radius: 15px;
 }
 
 /*按钮颜色*/
 .bttn-pill.bttn-success {
-    background: #0f03004a;
+    background: #c2b3a8;
+}
+
+.custom-block.info a, .custom-block.tip a, .custom-block.warning a, .custom-block.danger a, .custom-block.details a{
+    color: #3f51b5;
 }
 
 
@@ -167,5 +178,34 @@ hr {
 
 /*下载按钮间距调整*/
 button.bttn-pill.bttn-sm.bttn-success {
-    margin: 0px 0px 7px 0px;
+    margin: 0px 3px 10px 0px;
+}
+
+a.header-anchor{
+    width: 0px;height: 0px;overflow: hidden; 
+}
+
+div[class*='language-'].line-numbers-mode .line-numbers-wrapper {
+    width: 0px;height: 0px;overflow: hidden; 
+}
+
+div.language-.line-numbers-mode::after
+{
+    width: 0px;height: 0px;overflow: hidden; 
+}
+
+div[class*='language-'].line-numbers-mode {
+    padding-left: 0rem;
+}
+
+body:not(.theme-dark) div[class*='language-'] pre, body.theme-light div[class*='language-'] pre, body:not(.theme-dark) div[class*='language-'] pre[class*='language-'], body.theme-light div[class*='language-'] pre[class*='language-'] {
+    background: #f9f8f7;
+}
+
+button {
+    margin: 21px 3px 0px 0px;
+}
+
+p img {
+    width: 200px;
 }
